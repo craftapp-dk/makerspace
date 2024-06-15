@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=OnShape
+Icon=onshape.svg
+URL=https://cad.onshape.com/
+Exec=firefox https://cad.onshape.com/

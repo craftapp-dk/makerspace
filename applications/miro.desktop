@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Miro
+Icon=miro.png
+URL=https://miro.com/app/
+Exec=firefox https://miro.com/app/

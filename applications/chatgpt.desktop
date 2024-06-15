@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=ChatGPT
+Icon=chatgpt.svg
+URL=https://chat.openai.com
+Exec=firefox https://chat.openai.com

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=micro:bit
+Icon=microbit.png
+URL=https://makecode.microbit.org/
+Exec=firefox https://makecode.microbit.org/

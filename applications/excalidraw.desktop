@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Excalidraw
+Icon=excalidraw.png
+URL=https://excalidraw.com/
+Exec=firefox https://excalidraw.com/

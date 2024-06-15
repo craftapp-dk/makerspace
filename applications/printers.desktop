@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=3D Printers
+Icon=mini.png
+Keywords=3D;print;dashboard
+Exec=sh -c '$HOME/.local/share/applications/launchprinterdashboard.sh'

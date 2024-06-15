@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Craft App
+Icon=craftapp.png
+URL=https://craftapp.dk/
+Exec=firefox https://craftapp.dk/

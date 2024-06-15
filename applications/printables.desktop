@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Download 3D models
+Icon=printables.png
+Keywords=3D;printables;download
+URL=https://www.printables.com
+Exec=firefox https://www.printables.com

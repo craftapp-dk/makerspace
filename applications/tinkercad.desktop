@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=TinkerCAD
+Icon=tinker.png
+URL=https://www.tinkercad.com/
+Exec=firefox https://www.tinkercad.com/

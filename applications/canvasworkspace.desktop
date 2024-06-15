@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Canvas Workspace
+Icon=canvas.svg
+URL=https://canvasworkspace.brother.com/en
+Exec=firefox https://canvasworkspace.brother.com/en

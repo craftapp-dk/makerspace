@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Piskel
+Icon=piskel.png
+URL=https://www.piskelapp.com/
+Exec=firefox https://www.piskelapp.com/

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Photopea
+Icon=photopea.png
+URL=https://www.photopea.com/
+Exec=firefox https://www.photopea.com/
