@@ -89,7 +89,7 @@ create_shortcuts(){
 }
 
 install_config(){
-    curl -o deskenv.conf $deskenv
+    wget --no-check-certificate "$deskenv" -O deskenv.conf
     dconf load / < deskenv.conf
 }
 
